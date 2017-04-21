@@ -1,0 +1,21 @@
+K 14
+bugtraq:number
+V 4
+true
+K 10
+svn:ignore
+V 24
+.classpath
+.project
+bin
+
+K 13
+svn:mergeinfo
+V 154
+/branches/gui:620-655
+/branches/lane:209-427
+/branches/laneChange:480-611
+/branches/results:482-660
+/branches/taxis:620-657
+/branches/trafficLight:613-654
+END
