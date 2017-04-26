@@ -38,7 +38,7 @@ public class TaxiRank {
 	/**Variables used to keep taxis stopped at the Taxi rank.*/
 	private int t = 0;
 	private boolean timer = false;
-	private static final int STOP_TIME = (int) Utils.convertTime(2);
+	private static final int STOP_TIME = (int) Utils.convertTime(30);
 	
 	/**Queue containing all the taxis entering the taxi rank lane.*/
 	LinkedList<Vehicle> taxiQueue;
