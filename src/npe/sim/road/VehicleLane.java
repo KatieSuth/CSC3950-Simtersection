@@ -47,7 +47,7 @@ public class VehicleLane extends Lane {
 	///////////////////
 	//---CONSTANTS---//
 	///////////////////
-	public static final double LANE_WIDTH = 35;
+	public static final double LANE_WIDTH = 70;
 	//private static final double TAKE_OFF_ACCEL = Intersection.convertAcceleration(5);
 	
 	///////////////////

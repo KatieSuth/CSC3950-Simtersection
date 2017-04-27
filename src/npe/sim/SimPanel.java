@@ -64,9 +64,9 @@ public class SimPanel extends JPanel implements Runnable {
 	private double ty = 0;
 	//Scaling Control
 	/**The horizontal scaling factor.*/
-	private double sx = 1.0;
+	private double sx = 0.6;
 	/**The vertical scaling factor.*/
-	private double sy = 1.0;
+	private double sy = 0.6;
 	/**The x-coordinate of the centre of the panel.*/
 	private double centreX = SP_WIDTH/2;
 	/**The x-coordinate of the centre of the panel.*/
